@@ -7,4 +7,4 @@ basket = int(input("Enter the total baskets: "))
 apb = apple//basket
 leftapp = apple%basket
 
-print(f"{basket} baskets can be divided as:\n{apb} apples per basket, and\n{leftapp} leftover apples. ")
+print(f"{apple} apples for\n{basket} baskets can be divided as:\n{apb} apples per basket, and\n{leftapp} leftover apples. ")
